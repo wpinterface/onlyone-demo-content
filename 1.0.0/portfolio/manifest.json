@@ -1,0 +1,230 @@
+{
+	"demo": "portfolio",
+	"version": "1.0.0",
+	"images": [
+		{
+			"file": "camera.jpg",
+			"replaces": "assets/images/portfolio/camera.svg",
+			"sha256": "b1d244c605143c769b23e789e9c7d1549e43f808c5d4e7932a8486e740c21511",
+			"bytes": 312785,
+			"width": 960,
+			"height": 540
+		},
+		{
+			"file": "client-1.jpg",
+			"replaces": "assets/images/portfolio/client-1.svg",
+			"sha256": "20e83e2591b3493c5a910e679958a3ca980a40170f62ccb80822e758c5eef573",
+			"bytes": 503826,
+			"width": 960,
+			"height": 539
+		},
+		{
+			"file": "client-2.jpg",
+			"replaces": "assets/images/portfolio/client-2.svg",
+			"sha256": "e2a7a33f971afb45d4c02094dcb34be7f4497081854dd37d56e2a21b7731aa53",
+			"bytes": 363315,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "client-3.jpg",
+			"replaces": "assets/images/portfolio/client-3.svg",
+			"sha256": "44242896da729ea03265cc1b04c11c1cd3202f6df3b1251677e8e993da8d2bf4",
+			"bytes": 472700,
+			"width": 960,
+			"height": 657
+		},
+		{
+			"file": "client-4.jpg",
+			"replaces": "assets/images/portfolio/client-4.svg",
+			"sha256": "ec686b84370c56930dbd68d8384ddeb393b15d308fffce2e37fa0add8a9b95dc",
+			"bytes": 736066,
+			"width": 960,
+			"height": 1440
+		},
+		{
+			"file": "client-5.jpg",
+			"replaces": "assets/images/portfolio/client-5.svg",
+			"sha256": "891fcc68331b391c847e3acbab5ef78cf4a931e40e2d998a7de9d1aa372b1e55",
+			"bytes": 212726,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "code.jpg",
+			"replaces": "assets/images/portfolio/code.svg",
+			"sha256": "aff8eac234fb549471765c701f6c46bc0c84f16654d41e69fcb63031166f0fae",
+			"bytes": 179386,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "courtyard.jpg",
+			"replaces": "assets/images/portfolio/courtyard.svg",
+			"sha256": "56a32d7194dcb648cc1afd2429da8c1db224356b86de96f7f787db6a1239ec36",
+			"bytes": 1241389,
+			"width": 960,
+			"height": 1280
+		},
+		{
+			"file": "curves.jpg",
+			"replaces": "assets/images/portfolio/curves.svg",
+			"sha256": "f05d2bfe3323f21073d1e468ba0b2c19ae511152311543ef80db06d25f98d9ff",
+			"bytes": 594657,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "desk-flatlay.jpg",
+			"replaces": "assets/images/portfolio/desk-flatlay.svg",
+			"sha256": "3518cd5a1fefd18a904129b03b83e4ba351140b44f2a0632fe51742f7468a5f3",
+			"bytes": 368706,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "frame-plant.jpg",
+			"replaces": "assets/images/portfolio/frame-plant.svg",
+			"sha256": "99bf5f580d1053fed8e65955be4342d2fbdd168c4efe7c556bff6b88ffe66eec",
+			"bytes": 505245,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "living-room.jpg",
+			"replaces": "assets/images/portfolio/living-room.svg",
+			"sha256": "b7e27ef0110b00c944df847c7abb566709f394a65d565697ab1ecddfe00953db",
+			"bytes": 1115287,
+			"width": 960,
+			"height": 1280
+		},
+		{
+			"file": "markers.jpg",
+			"replaces": "assets/images/portfolio/markers.svg",
+			"sha256": "9130ea58229818e7b3c59f7cb2b78652c4a12c48d17ef69579941aa259340f6c",
+			"bytes": 524861,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "notebook.jpg",
+			"replaces": "assets/images/portfolio/notebook.svg",
+			"sha256": "f0897a5c997b441738687172111de651d3019664c8c42d64092e66dbff179305",
+			"bytes": 520215,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "pencils.jpg",
+			"replaces": "assets/images/portfolio/pencils.svg",
+			"sha256": "ff3a23a2fc96232c2e1c2fdd1e598cf114724a6420216067088c558a8c0f5d8c",
+			"bytes": 423983,
+			"width": 960,
+			"height": 636
+		},
+		{
+			"file": "phone-concrete.jpg",
+			"replaces": "assets/images/portfolio/phone-concrete.svg",
+			"sha256": "06606cf6cf9e2a0d99a75a0b3379704a4108f6a13f0bf6f42002395c7328f33e",
+			"bytes": 859911,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "portrait.jpg",
+			"replaces": "assets/images/portfolio/portrait.svg",
+			"sha256": "66d5cacc9cc64a5096bc4a4dc8d5f9679f5b5f5011501b6af01b138e1d4e94a1",
+			"bytes": 323135,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "shapes-copper.jpg",
+			"replaces": "assets/images/portfolio/shapes-copper.svg",
+			"sha256": "f89168a88dd9a3afb3f25cd3cbd6ecde57520ae6c26ca9550919a154660e9838",
+			"bytes": 236656,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "shapes-prism.jpg",
+			"replaces": "assets/images/portfolio/shapes-prism.svg",
+			"sha256": "43b64c33085085ec414a2e4521b3c57a6088eb4db26036b000da1ec14e8814c3",
+			"bytes": 231363,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "sketching.jpg",
+			"replaces": "assets/images/portfolio/sketching.svg",
+			"sha256": "ebf81934c788b9228f371b0de1ce84691108af418479e7bac9c45c9257d4a01c",
+			"bytes": 637357,
+			"width": 960,
+			"height": 742
+		},
+		{
+			"file": "soap.jpg",
+			"replaces": "assets/images/portfolio/soap.svg",
+			"sha256": "3e0f552f0c9364ac6811fa6297c38fce85f9dd8b4711f740fcd84ee302207ece",
+			"bytes": 332861,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "stairs.jpg",
+			"replaces": "assets/images/portfolio/stairs.svg",
+			"sha256": "810ca8fb7b73c5748832ddbe0deae2fc704423633eef6a9f1a085df617b0db4d",
+			"bytes": 73412,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "stationery.jpg",
+			"replaces": "assets/images/portfolio/stationery.svg",
+			"sha256": "4954928472f62cd4e59432e8efb95885fe1db9ef169d2bc448937888822951db",
+			"bytes": 260326,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "swatches-fan.jpg",
+			"replaces": "assets/images/portfolio/swatches-fan.svg",
+			"sha256": "439f8a77250a01b47fb7db7b10132dc8f1869c6ee586a62e1d517ca3e535e93a",
+			"bytes": 735322,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "swatches.jpg",
+			"replaces": "assets/images/portfolio/swatches.svg",
+			"sha256": "3461872098771a78509c58933d525ac294eb028228a7cc0e2bc3d3a6661644da",
+			"bytes": 612666,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "white-curves.jpg",
+			"replaces": "assets/images/portfolio/white-curves.svg",
+			"sha256": "fba7e20ad130893b4409b2727d27ec9b286ba2cbc16d2ab0361361e959d40d8b",
+			"bytes": 237584,
+			"width": 960,
+			"height": 720
+		},
+		{
+			"file": "wireframes.jpg",
+			"replaces": "assets/images/portfolio/wireframes.svg",
+			"sha256": "43f93e69c347bb4daad52745c31939d19ad3818646f1099a6760b4c44f2f1994",
+			"bytes": 368074,
+			"width": 960,
+			"height": 720
+		},
+		{
+			"file": "wood-hall.jpg",
+			"replaces": "assets/images/portfolio/wood-hall.svg",
+			"sha256": "abbe4e5a0e2b1ae7eb2611e94aff7afe607e2f745c1c7a4932b9102d44852faf",
+			"bytes": 927601,
+			"width": 960,
+			"height": 720
+		}
+	]
+}
