@@ -1,0 +1,206 @@
+{
+	"demo": "editorial",
+	"version": "1.0.0",
+	"images": [
+		{
+			"file": "author-1.jpg",
+			"replaces": "assets/images/editorial/author-1.svg",
+			"sha256": "ece5832013306a617878db19affe6d7915c3507d792cf4193dbf315d823d77c4",
+			"bytes": 114160,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "author-2.jpg",
+			"replaces": "assets/images/editorial/author-2.svg",
+			"sha256": "1dd237c09ff93394df771a82412676a597e9f51019c70909d311e7cbdaeecbed",
+			"bytes": 109068,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "author-3.jpg",
+			"replaces": "assets/images/editorial/author-3.svg",
+			"sha256": "ce3576eba77163ff76c12d26e1d314b53b6342894bb36f0ee14aed8ba7034edc",
+			"bytes": 103057,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "author-4.jpg",
+			"replaces": "assets/images/editorial/author-4.svg",
+			"sha256": "77e52be10df31b2417841bd4ad09d0a7e171a819b9d51ed5f5f1346eeac376db",
+			"bytes": 125806,
+			"width": 853,
+			"height": 1280
+		},
+		{
+			"file": "author-5.jpg",
+			"replaces": "assets/images/editorial/author-5.svg",
+			"sha256": "fd42997a873b8703e68698f4f5e9f070561b6ad6e58958d17cfcb82024c143b4",
+			"bytes": 233383,
+			"width": 960,
+			"height": 1201
+		},
+		{
+			"file": "author-6.jpg",
+			"replaces": "assets/images/editorial/author-6.svg",
+			"sha256": "78b6a9a68133efc767ea487164d101523630995a988949f5a71b1bbad0fcf242",
+			"bytes": 113021,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "story-books.jpg",
+			"replaces": "assets/images/editorial/story-books.svg",
+			"sha256": "7c1da255d8733e2029370624bc434557ee29a2bad5eb1b5f0cab6bc37a724514",
+			"bytes": 198419,
+			"width": 960,
+			"height": 611
+		},
+		{
+			"file": "story-clay.jpg",
+			"replaces": "assets/images/editorial/story-clay.svg",
+			"sha256": "0e7d7ad699a908969e90c994403930f16f1fd9fc2d235e26eece8857d97eb6de",
+			"bytes": 71273,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "story-coffee.jpg",
+			"replaces": "assets/images/editorial/story-coffee.svg",
+			"sha256": "b9bba5a954ae5acb9fee202a2ec8ee9df6af2ba9d6e99ba8085afc25889361f7",
+			"bytes": 117088,
+			"width": 960,
+			"height": 589
+		},
+		{
+			"file": "story-desk.jpg",
+			"replaces": "assets/images/editorial/story-desk.svg",
+			"sha256": "e5d758acfa7c26ed73d2783398a54d29dc4b3acb29af511963ae075daafa6a51",
+			"bytes": 124865,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "story-forest.jpg",
+			"replaces": "assets/images/editorial/story-forest.svg",
+			"sha256": "b90c0014a144528caae4b7fd74449cf1cc17a11ec7fa1a476b8d94b4419dda34",
+			"bytes": 326355,
+			"width": 960,
+			"height": 720
+		},
+		{
+			"file": "story-gallery.jpg",
+			"replaces": "assets/images/editorial/story-gallery.svg",
+			"sha256": "848c85b4352848e33f84e2c5b4932aacb713284f8e78a0ca5e6f3bcd626df005",
+			"bytes": 50525,
+			"width": 960,
+			"height": 579
+		},
+		{
+			"file": "story-keys.jpg",
+			"replaces": "assets/images/editorial/story-keys.svg",
+			"sha256": "374dfea6e2c394f4a316537bcd534d21de07b4e313125a86094c3e74aef1dc72",
+			"bytes": 72274,
+			"width": 960,
+			"height": 540
+		},
+		{
+			"file": "story-laptop.jpg",
+			"replaces": "assets/images/editorial/story-laptop.svg",
+			"sha256": "133efa0239df130600ecf447957731288f60ffc62164de71839a562fd67e8168",
+			"bytes": 70772,
+			"width": 960,
+			"height": 540
+		},
+		{
+			"file": "story-letter.jpg",
+			"replaces": "assets/images/editorial/story-letter.svg",
+			"sha256": "486ed058d7b85e0f412c3670654f685a9ff5a935159e77b8d0fa5db068ff8722",
+			"bytes": 106352,
+			"width": 960,
+			"height": 720
+		},
+		{
+			"file": "story-night.jpg",
+			"replaces": "assets/images/editorial/story-night.svg",
+			"sha256": "e83f24838faf903403cda637f7a3a4699722d72447b74468da0950bf9af7a3c9",
+			"bytes": 239716,
+			"width": 960,
+			"height": 1280
+		},
+		{
+			"file": "story-oranges.jpg",
+			"replaces": "assets/images/editorial/story-oranges.svg",
+			"sha256": "97aec33a60e370478c10e6bc33ac1f5bf551b63913648b521b01e3792edc9031",
+			"bytes": 140179,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "story-podcast.jpg",
+			"replaces": "assets/images/editorial/story-podcast.svg",
+			"sha256": "365c7b658020afdee3c1bba6ec272aaed4743573f44f582fbe56ebabf6d63547",
+			"bytes": 89563,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "story-potter.jpg",
+			"replaces": "assets/images/editorial/story-potter.svg",
+			"sha256": "14bd8ad0e1433228684f36b7d6ecf56208dd35badcdfc8ec4cff1c26662046a3",
+			"bytes": 75329,
+			"width": 960,
+			"height": 539
+		},
+		{
+			"file": "story-reader.jpg",
+			"replaces": "assets/images/editorial/story-reader.svg",
+			"sha256": "d18dfcee12bfc9b90c13adb339251f6b5dd4342ec6c86d288d4562f31b1962e3",
+			"bytes": 105851,
+			"width": 853,
+			"height": 1280
+		},
+		{
+			"file": "story-records.jpg",
+			"replaces": "assets/images/editorial/story-records.svg",
+			"sha256": "65e6ed991f9be7b1ec62eb96685fbea5bdaf24b1cbe0f319359b465fc582091b",
+			"bytes": 116133,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "story-sofa.jpg",
+			"replaces": "assets/images/editorial/story-sofa.svg",
+			"sha256": "216b2d3f665e10a454e808f63b87d9d1ca6b4e0b688741f1ca12e5eeeceef0a5",
+			"bytes": 98387,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "story-street.jpg",
+			"replaces": "assets/images/editorial/story-street.svg",
+			"sha256": "291a317a545b735b7d07101027167aa5557e330d9bb9a80c4615d18711f9163e",
+			"bytes": 135457,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "story-tea.jpg",
+			"replaces": "assets/images/editorial/story-tea.svg",
+			"sha256": "e6c0c236b2f90cee37da75542f69ef32e1215245d123f9134ea7bb1294a418b2",
+			"bytes": 96071,
+			"width": 960,
+			"height": 645
+		},
+		{
+			"file": "story-typewriter.jpg",
+			"replaces": "assets/images/editorial/story-typewriter.svg",
+			"sha256": "7e3948e25db14fdc337cdf3e36ac6bb6c9e44ca42f3e5c832aa2d1d96229eb03",
+			"bytes": 66118,
+			"width": 960,
+			"height": 639
+		}
+	]
+}
