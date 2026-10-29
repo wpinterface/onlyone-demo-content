@@ -1,0 +1,238 @@
+{
+	"demo": "agency",
+	"version": "1.0.0",
+	"images": [
+		{
+			"file": "portrait-1.jpg",
+			"replaces": "assets/images/agency/portrait-1.svg",
+			"sha256": "05151f1f6c16800c07a39520597499e34b01ab099af4311825f67dcbf5166570",
+			"bytes": 271295,
+			"width": 960,
+			"height": 1137
+		},
+		{
+			"file": "portrait-2.jpg",
+			"replaces": "assets/images/agency/portrait-2.svg",
+			"sha256": "0959690491e89ad0f60d50bdbcad88e7d01efbd75610ce84f5dafbf9ae5e5db8",
+			"bytes": 145862,
+			"width": 834,
+			"height": 1280
+		},
+		{
+			"file": "portrait-3.jpg",
+			"replaces": "assets/images/agency/portrait-3.svg",
+			"sha256": "4b77c4da1ef09eb9821e502a5c343aa687d1a44ad5023c35a146005929cbe145",
+			"bytes": 119171,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "space-1.jpg",
+			"replaces": "assets/images/agency/space-1.svg",
+			"sha256": "134ede1ce1bdc2d0dee31faea3ff38cceef368c6d5dfff1946d45f3e939affc6",
+			"bytes": 136238,
+			"width": 853,
+			"height": 1280
+		},
+		{
+			"file": "space-2.jpg",
+			"replaces": "assets/images/agency/space-2.svg",
+			"sha256": "ff52149e7d9206e35d248e65111cde84491c9e9f88f8598a9c8a79acd52529b1",
+			"bytes": 275706,
+			"width": 960,
+			"height": 1280
+		},
+		{
+			"file": "space-3.jpg",
+			"replaces": "assets/images/agency/space-3.svg",
+			"sha256": "b11ef2f641f7531e0e5d893d2d4aa85acbdb222131105266a902444619a696b6",
+			"bytes": 99479,
+			"width": 960,
+			"height": 649
+		},
+		{
+			"file": "space-4.jpg",
+			"replaces": "assets/images/agency/space-4.svg",
+			"sha256": "e7aab446ab6d276c1da8744a89bc7297ebb1837e51426392c6e00873a64c2ec3",
+			"bytes": 127340,
+			"width": 960,
+			"height": 603
+		},
+		{
+			"file": "space-5.jpg",
+			"replaces": "assets/images/agency/space-5.svg",
+			"sha256": "77ff34f940b5120f5bb0ef2ce134c698b5d86cfece1c4d32ab17da611cc3d4ec",
+			"bytes": 58287,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "space-6.jpg",
+			"replaces": "assets/images/agency/space-6.svg",
+			"sha256": "5f559c6165c117c8a86a24a251f5d680d21ba5dac504633b4c1a8f412f0ac815",
+			"bytes": 119861,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "studio-1.jpg",
+			"replaces": "assets/images/agency/studio-1.svg",
+			"sha256": "6a93a05461286404c48b79f26ca8104514d49760cd9fceb0701769bfa0c3b864",
+			"bytes": 100145,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "studio-2.jpg",
+			"replaces": "assets/images/agency/studio-2.svg",
+			"sha256": "6d991926f2495ab6b6b5a1fd814768c440bfc579aef21036f43b94c89d4bc1f3",
+			"bytes": 168707,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "studio-3.jpg",
+			"replaces": "assets/images/agency/studio-3.svg",
+			"sha256": "3cedc0dc6b056d9ae87ddaba1f337d1033ebec96bc463b51abeb5eac8ea52a3b",
+			"bytes": 130587,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "studio-4.jpg",
+			"replaces": "assets/images/agency/studio-4.svg",
+			"sha256": "e53b8efd3bbd2c6ce1d44582005409ffbfcbf3d0475c481b382c7bd6a6131bd0",
+			"bytes": 87079,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "studio-5.jpg",
+			"replaces": "assets/images/agency/studio-5.svg",
+			"sha256": "0df65d4f4c677a0daa5564f045c0b3425b60af4ebc9d07ecd1e6aaf0a31207c4",
+			"bytes": 103856,
+			"width": 960,
+			"height": 720
+		},
+		{
+			"file": "studio-6.jpg",
+			"replaces": "assets/images/agency/studio-6.svg",
+			"sha256": "cc66c5b59baf70255c87a4b6fe75a05a2808bb022eef76c4ff8c83e2467aab1d",
+			"bytes": 103493,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "studio-7.jpg",
+			"replaces": "assets/images/agency/studio-7.svg",
+			"sha256": "b3c9dd1f6b96b68d8fe3c2b2d1329bf91e54c3848dff06e7fae1b374ae707777",
+			"bytes": 85918,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "studio-8.jpg",
+			"replaces": "assets/images/agency/studio-8.svg",
+			"sha256": "0d26df97670dd01bb86fb794c0eb2bc3ca4e573a491dabe030888c8faa747f67",
+			"bytes": 100249,
+			"width": 960,
+			"height": 894
+		},
+		{
+			"file": "team-1.jpg",
+			"replaces": "assets/images/agency/team-1.svg",
+			"sha256": "646c56db1b6d44ee10378fcc4ee270e3ee951539dc319f81dae7f8e1c0abb313",
+			"bytes": 242425,
+			"width": 853,
+			"height": 1280
+		},
+		{
+			"file": "team-2.jpg",
+			"replaces": "assets/images/agency/team-2.svg",
+			"sha256": "e57f167d5dcd54ed9cc1d2c61728f42bc839fc9813f79bd2b433b2a74a665f50",
+			"bytes": 96435,
+			"width": 825,
+			"height": 1280
+		},
+		{
+			"file": "team-3.jpg",
+			"replaces": "assets/images/agency/team-3.svg",
+			"sha256": "0029c3342e9e464a88e6d44fa75d31f533dfb047bc79c0d5db9c242fa09e5f20",
+			"bytes": 132954,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "team-4.jpg",
+			"replaces": "assets/images/agency/team-4.svg",
+			"sha256": "2326d113410cac279094039e5577f68dbd616ebdd70a499aaea7134b5110b4c5",
+			"bytes": 73585,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "team-5.jpg",
+			"replaces": "assets/images/agency/team-5.svg",
+			"sha256": "88206f105b8655324adf5e6d2e33e4cd445bbfaa55623fc4a5d05a7b6b372742",
+			"bytes": 145608,
+			"width": 853,
+			"height": 1280
+		},
+		{
+			"file": "team-6.jpg",
+			"replaces": "assets/images/agency/team-6.svg",
+			"sha256": "a22e73d65bcfad93ea802003dfdb3ee45ff0201570132d3e678bd6d2a1740f4b",
+			"bytes": 113732,
+			"width": 960,
+			"height": 779
+		},
+		{
+			"file": "work-1.jpg",
+			"replaces": "assets/images/agency/work-1.svg",
+			"sha256": "b0fdfd9ea9e6317813aaf8e8b04776e9eea39d1c0f347dc65d282bacc2b7f972",
+			"bytes": 214533,
+			"width": 717,
+			"height": 1280
+		},
+		{
+			"file": "work-2.jpg",
+			"replaces": "assets/images/agency/work-2.svg",
+			"sha256": "4aed22e025ce410889b5f0e1395141f6a6e1f7d1b07275957854c99bd20c5bb5",
+			"bytes": 118854,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "work-3.jpg",
+			"replaces": "assets/images/agency/work-3.svg",
+			"sha256": "51ff50315bb42e548a26a33b2cc991990b42cc50ad6eb09c82fd817763db1ba4",
+			"bytes": 125626,
+			"width": 960,
+			"height": 720
+		},
+		{
+			"file": "work-4.jpg",
+			"replaces": "assets/images/agency/work-4.svg",
+			"sha256": "466f15475fa4f26ea6865d492ac3cb2845d97bccb99cfd6f76bb83dbb741296a",
+			"bytes": 83009,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "work-5.jpg",
+			"replaces": "assets/images/agency/work-5.svg",
+			"sha256": "683cec7924e5d6c5811a7c7b7faa08802bcf6a211be3634b3e0ace0f8d5a60ef",
+			"bytes": 156123,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "work-6.jpg",
+			"replaces": "assets/images/agency/work-6.svg",
+			"sha256": "54512632a5bd15a7efac22ad77fedd652d142e428ce99a6b9cefc78cb54de8ce",
+			"bytes": 144031,
+			"width": 960,
+			"height": 1274
+		}
+	]
+}
