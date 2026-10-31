@@ -113,3 +113,51 @@ Every photo is from [StockSnap.io](https://stocksnap.io) and released under [Cre
 | `1.0.0/portfolio/white-curves.jpg` | https://stocksnap.io/photo/white-shapes-HOGKNEMAUX |
 | `1.0.0/portfolio/wireframes.jpg` | https://stocksnap.io/photo/wireframe-sketch-2QBWAOT5KL |
 | `1.0.0/portfolio/wood-hall.jpg` | https://stocksnap.io/photo/wood-interior-THL5OC7QEA |
+
+## Restaurant (43 photos)
+
+| Photo | Source |
+|---|---|
+| `1.0.0/restaurant/bartender.jpg` | https://stocksnap.io/photo/bar-counter-YWDKYIFE2A |
+| `1.0.0/restaurant/bread.jpg` | https://stocksnap.io/photo/homemade-bread-WELQ7DLMJQ |
+| `1.0.0/restaurant/chef-head.jpg` | https://stocksnap.io/photo/kitchen-cook-BKYKF373YG |
+| `1.0.0/restaurant/chef-pastry.jpg` | https://stocksnap.io/photo/people-man-T08IOI7P1E |
+| `1.0.0/restaurant/chef-sous.jpg` | https://stocksnap.io/photo/people-man-FD2GMP6ES7 |
+| `1.0.0/restaurant/corks.jpg` | https://stocksnap.io/photo/wine-corks-P7IKG503HV |
+| `1.0.0/restaurant/dining-room.jpg` | https://stocksnap.io/photo/restaurant-dining-CCF37A44AB |
+| `1.0.0/restaurant/duck.jpg` | https://stocksnap.io/photo/gourmet-food-BGROKWFVRK |
+| `1.0.0/restaurant/espresso-martini.jpg` | https://stocksnap.io/photo/espresso-martini-P3CXM17Z0E |
+| `1.0.0/restaurant/fire.jpg` | https://stocksnap.io/photo/fire-dark-BKRH7SD0D2 |
+| `1.0.0/restaurant/fish.jpg` | https://stocksnap.io/photo/gourmet-food-AW3QDDIGZP |
+| `1.0.0/restaurant/flour-hands.jpg` | https://stocksnap.io/photo/food-cook-5ECBT47XF5 |
+| `1.0.0/restaurant/gin-tonic.jpg` | https://stocksnap.io/photo/cocktail-glass-PAWENRFMUL |
+| `1.0.0/restaurant/grill-smoke.jpg` | https://stocksnap.io/photo/grill-smoke-9ORVHU9PQI |
+| `1.0.0/restaurant/guest-1.jpg` | https://stocksnap.io/photo/smiling-woman-5F32PMQCSI |
+| `1.0.0/restaurant/guest-2.jpg` | https://stocksnap.io/photo/older-businessman-5BRQF1DZ8W |
+| `1.0.0/restaurant/guest-3.jpg` | https://stocksnap.io/photo/woman-portrait-N2RMV6BSMR |
+| `1.0.0/restaurant/guests.jpg` | https://stocksnap.io/photo/friends-dinner-RRSDBIHUMS |
+| `1.0.0/restaurant/hero-table.jpg` | https://stocksnap.io/photo/restaurant-food-47E77904CB |
+| `1.0.0/restaurant/kitchen-pass.jpg` | https://stocksnap.io/photo/restaurant-kitchen-0HCMIT272C |
+| `1.0.0/restaurant/lamps.jpg` | https://stocksnap.io/photo/rustic-restaurant-79KTHM0VTK |
+| `1.0.0/restaurant/long-table.jpg` | https://stocksnap.io/photo/table-plate-32QPKBQTPZ |
+| `1.0.0/restaurant/market.jpg` | https://stocksnap.io/photo/crops-market-5YYLCKLNJ3 |
+| `1.0.0/restaurant/mushrooms.jpg` | https://stocksnap.io/photo/mushrooms-skillet-STHDNB9LIP |
+| `1.0.0/restaurant/oysters.jpg` | https://stocksnap.io/photo/table-restaurant-Y1ER9G6WJJ |
+| `1.0.0/restaurant/panna-cotta.jpg` | https://stocksnap.io/photo/dessert-panna-cotta-ELUR0DCHB3 |
+| `1.0.0/restaurant/pasta.jpg` | https://stocksnap.io/photo/food-plate-LF3YEO5Q13 |
+| `1.0.0/restaurant/pasta-making.jpg` | https://stocksnap.io/photo/pasta-flour-I4MIIMHZ5M |
+| `1.0.0/restaurant/plate-blue.jpg` | https://stocksnap.io/photo/tomatoes-plate-0CTBLHUPMS |
+| `1.0.0/restaurant/plate-clams.jpg` | https://stocksnap.io/photo/seafood-clams-IJOQFDYK3F |
+| `1.0.0/restaurant/plate-salad.jpg` | https://stocksnap.io/photo/flatlay-plate-WZRTRRU0M7 |
+| `1.0.0/restaurant/plate-tomatoes.jpg` | https://stocksnap.io/photo/plate-flatlay-CRXYJIORPK |
+| `1.0.0/restaurant/plating.jpg` | https://stocksnap.io/photo/chef-cook-J2W0D3CO2L |
+| `1.0.0/restaurant/private-room.jpg` | https://stocksnap.io/photo/dining-seating-LYZ6SGASGV |
+| `1.0.0/restaurant/ravioli.jpg` | https://stocksnap.io/photo/ravioli-mushrooms-KENRYYSJRK |
+| `1.0.0/restaurant/sardines.jpg` | https://stocksnap.io/photo/grilled-fish-B0U6RRROJW |
+| `1.0.0/restaurant/scallops.jpg` | https://stocksnap.io/photo/scallops-seafood-DBCBPQBRVV |
+| `1.0.0/restaurant/sommelier.jpg` | https://stocksnap.io/photo/woman-wine-AA7FGW5SW8 |
+| `1.0.0/restaurant/spritz.jpg` | https://stocksnap.io/photo/cocktail-drinks-EBFFMGDGR0 |
+| `1.0.0/restaurant/tart.jpg` | https://stocksnap.io/photo/pie-dessert-4NVN2HAVHV |
+| `1.0.0/restaurant/the-pass.jpg` | https://stocksnap.io/photo/food-chef-70RXKSHZDO |
+| `1.0.0/restaurant/wine-pour.jpg` | https://stocksnap.io/photo/wine-pour-VUOSOBFAQJ |
+| `1.0.0/restaurant/wine-tasting.jpg` | https://stocksnap.io/photo/wine-tasting-T8FNYMYTHK |

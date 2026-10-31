@@ -1,0 +1,350 @@
+{
+	"demo": "restaurant",
+	"version": "1.0.0",
+	"images": [
+		{
+			"file": "bartender.jpg",
+			"replaces": "assets/images/restaurant/bartender.svg",
+			"sha256": "e39394bd2e31e13d5d54435e78adf39d1d94ab7b6d4affc3ea9172b13b9e6b4b",
+			"bytes": 46483,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "bread.jpg",
+			"replaces": "assets/images/restaurant/bread.svg",
+			"sha256": "9e30e9a74617495893351227de1c8c31c2347bb15538cf70620baf995bccdff6",
+			"bytes": 946826,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "chef-head.jpg",
+			"replaces": "assets/images/restaurant/chef-head.svg",
+			"sha256": "42ac74531d827fb654812e09bb6e5ebf78dbe7b788e40ef7a312a7a73ff08fe9",
+			"bytes": 67138,
+			"width": 960,
+			"height": 720
+		},
+		{
+			"file": "chef-pastry.jpg",
+			"replaces": "assets/images/restaurant/chef-pastry.svg",
+			"sha256": "5c9f6897e095478ee559184671ae006f0167b5441353dbfc83bcbe8a2bfe2cd0",
+			"bytes": 78969,
+			"width": 960,
+			"height": 769
+		},
+		{
+			"file": "chef-sous.jpg",
+			"replaces": "assets/images/restaurant/chef-sous.svg",
+			"sha256": "7e2eb909d6d76c91fcdaf0cf9440b71dedd37c844c3e1c9b6756b6d6e743a3d8",
+			"bytes": 70438,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "corks.jpg",
+			"replaces": "assets/images/restaurant/corks.svg",
+			"sha256": "12ed8b3ad955e201b7b301cb953b1fbd92bb8693c813842b7e3a3794cc4ba8a9",
+			"bytes": 122749,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "dining-room.jpg",
+			"replaces": "assets/images/restaurant/dining-room.svg",
+			"sha256": "df3965a30ea744d989e31dd2e6eff93337ddc032b09451a53a16737045604a9d",
+			"bytes": 79018,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "duck.jpg",
+			"replaces": "assets/images/restaurant/duck.svg",
+			"sha256": "4b039049802f37820d38efc89a82dc42458d392b3121cab1ae056dd69667c06c",
+			"bytes": 1245674,
+			"width": 960,
+			"height": 1449
+		},
+		{
+			"file": "espresso-martini.jpg",
+			"replaces": "assets/images/restaurant/espresso-martini.svg",
+			"sha256": "67036f199b634cc2d26d773ce32289f35c7ea242df411455246aea61031c23d5",
+			"bytes": 400196,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "fire.jpg",
+			"replaces": "assets/images/restaurant/fire.svg",
+			"sha256": "c764265d01cf7804df4819c896430060d670df73e4ff16613c6e3b992dabe275",
+			"bytes": 53704,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "fish.jpg",
+			"replaces": "assets/images/restaurant/fish.svg",
+			"sha256": "b88034d9539ca060afb415c69c6bcdc95d6d6faec745eb0587dced423a3b0b1d",
+			"bytes": 677321,
+			"width": 960,
+			"height": 1444
+		},
+		{
+			"file": "flour-hands.jpg",
+			"replaces": "assets/images/restaurant/flour-hands.svg",
+			"sha256": "a221ffb3db37baf022f66c3762961b34f5812aefef6dfcf23d9e6c7a73c5dda1",
+			"bytes": 95267,
+			"width": 960,
+			"height": 1438
+		},
+		{
+			"file": "gin-tonic.jpg",
+			"replaces": "assets/images/restaurant/gin-tonic.svg",
+			"sha256": "78ad333d54181c428e52bc6c1425b827f53a45978e3153169a74ff95a669fd40",
+			"bytes": 541099,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "grill-smoke.jpg",
+			"replaces": "assets/images/restaurant/grill-smoke.svg",
+			"sha256": "c7dcfeb6845c6dcfa5007f94924dc8d33d7e646d20a715724af11021f7025081",
+			"bytes": 45618,
+			"width": 960,
+			"height": 646
+		},
+		{
+			"file": "guest-1.jpg",
+			"replaces": "assets/images/restaurant/guest-1.svg",
+			"sha256": "f9956ac1eb27db00414bb496cc69bec8b1857fa73b1c65e115984c1d3b9242b6",
+			"bytes": 577858,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "guest-2.jpg",
+			"replaces": "assets/images/restaurant/guest-2.svg",
+			"sha256": "9546ed4c44256b7839c03e6be3d8e98e26d0973728fbbd8d431d94f1f6ce1b90",
+			"bytes": 509474,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "guest-3.jpg",
+			"replaces": "assets/images/restaurant/guest-3.svg",
+			"sha256": "a293b578f4bd446e484a7e78a05e0195641be93754c48276a2702d97991599fd",
+			"bytes": 478941,
+			"width": 960,
+			"height": 556
+		},
+		{
+			"file": "guests.jpg",
+			"replaces": "assets/images/restaurant/guests.svg",
+			"sha256": "1370abf5286a25c1cdcf9c5dccba9a6ba8bda58d1ca24086d5b42cccc00dddb5",
+			"bytes": 563385,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "hero-table.jpg",
+			"replaces": "assets/images/restaurant/hero-table.svg",
+			"sha256": "132f22c199a21ed2183ce3c42419344939135faf5b9ecfee5d54a87bda8ca97d",
+			"bytes": 78058,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "kitchen-pass.jpg",
+			"replaces": "assets/images/restaurant/kitchen-pass.svg",
+			"sha256": "63f7e3533f771e5a86cace86493ddb1bc798c3658f42bf36c8e22e7bd3bd0205",
+			"bytes": 63636,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "lamps.jpg",
+			"replaces": "assets/images/restaurant/lamps.svg",
+			"sha256": "4a1956adad5f1e814c58cfa5d791b6923d058319150f2175059880b06512f1a2",
+			"bytes": 541477,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "long-table.jpg",
+			"replaces": "assets/images/restaurant/long-table.svg",
+			"sha256": "523ad33853ae6d7bb0a27d63847f155f7a95569d38fe62a3219c5bbfe742f209",
+			"bytes": 113490,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "market.jpg",
+			"replaces": "assets/images/restaurant/market.svg",
+			"sha256": "50c6d356211932d8626a32ae2aedfedc658975a34eedb3e6b837c1908c93ec4a",
+			"bytes": 87208,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "mushrooms.jpg",
+			"replaces": "assets/images/restaurant/mushrooms.svg",
+			"sha256": "f2ee731939f88e18ba0941732a7ce0657e4f7267de61d7e2cb342817da50c504",
+			"bytes": 94031,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "oysters.jpg",
+			"replaces": "assets/images/restaurant/oysters.svg",
+			"sha256": "c355984444a6b644c19d9104f508188af1fd6ee56cdf06500d38bfb78d2f2eb9",
+			"bytes": 70342,
+			"width": 960,
+			"height": 720
+		},
+		{
+			"file": "panna-cotta.jpg",
+			"replaces": "assets/images/restaurant/panna-cotta.svg",
+			"sha256": "0a86389a64f5bf57c17b7777e59c39b6e3346059043693814d722f14865f6511",
+			"bytes": 513998,
+			"width": 960,
+			"height": 720
+		},
+		{
+			"file": "pasta-making.jpg",
+			"replaces": "assets/images/restaurant/pasta-making.svg",
+			"sha256": "71cb19b87a736ff624a532ba6c4cdac16c44aea5ecf1ed14eb34361471816416",
+			"bytes": 66825,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "pasta.jpg",
+			"replaces": "assets/images/restaurant/pasta.svg",
+			"sha256": "a105a166b3d1afa01f790db1ef487ce74c23c514b9c4ca6faf13b85ad8a3763c",
+			"bytes": 91765,
+			"width": 960,
+			"height": 702
+		},
+		{
+			"file": "plate-blue.jpg",
+			"replaces": "assets/images/restaurant/plate-blue.svg",
+			"sha256": "dffb525e329e676125684cfdc6986d6b1a821534c32dbb40440e9a20300f09e3",
+			"bytes": 675640,
+			"width": 960,
+			"height": 720
+		},
+		{
+			"file": "plate-clams.jpg",
+			"replaces": "assets/images/restaurant/plate-clams.svg",
+			"sha256": "1d5f8d644e26270ead3258232604f9e6869d061936efa06579ddf0b7f8e41593",
+			"bytes": 135310,
+			"width": 960,
+			"height": 960
+		},
+		{
+			"file": "plate-salad.jpg",
+			"replaces": "assets/images/restaurant/plate-salad.svg",
+			"sha256": "e6fed3aa0b2223687d83919a9276f745120631604afd5318180c02cffeaec5a0",
+			"bytes": 840357,
+			"width": 960,
+			"height": 1440
+		},
+		{
+			"file": "plate-tomatoes.jpg",
+			"replaces": "assets/images/restaurant/plate-tomatoes.svg",
+			"sha256": "ea44574e93b13db4f29c4b854fc2c5e197678789ac046d46c3409b09ed0ba700",
+			"bytes": 1542429,
+			"width": 960,
+			"height": 1440
+		},
+		{
+			"file": "plating.jpg",
+			"replaces": "assets/images/restaurant/plating.svg",
+			"sha256": "e7cd0781b5221fdd63dc181788694d7d374535bc84c6bc7fe4fc332c05877416",
+			"bytes": 49007,
+			"width": 960,
+			"height": 563
+		},
+		{
+			"file": "private-room.jpg",
+			"replaces": "assets/images/restaurant/private-room.svg",
+			"sha256": "77ad8770d5330be4c05501f090452b63fdfb5877b0c52a5bed38e83486dafb97",
+			"bytes": 959366,
+			"width": 960,
+			"height": 1440
+		},
+		{
+			"file": "ravioli.jpg",
+			"replaces": "assets/images/restaurant/ravioli.svg",
+			"sha256": "8eb1ac199ac5ba8204345ddcc353f16d96ac4c187a0f638703ee97a6d463b06d",
+			"bytes": 554508,
+			"width": 960,
+			"height": 1449
+		},
+		{
+			"file": "sardines.jpg",
+			"replaces": "assets/images/restaurant/sardines.svg",
+			"sha256": "0e7f0215c580f3d9de75c37f1d0cb1112644129d8f6963febcbd24b997fcb8fe",
+			"bytes": 112161,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "scallops.jpg",
+			"replaces": "assets/images/restaurant/scallops.svg",
+			"sha256": "550d46fe1a232395c127df7413b49891e05be9a5df60c44e0a494a56e21a2bbd",
+			"bytes": 518802,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "sommelier.jpg",
+			"replaces": "assets/images/restaurant/sommelier.svg",
+			"sha256": "9eecf1513f501d99525c91aa68f16b9703b6ef69bd0eda34035aaa0c90a87b53",
+			"bytes": 680255,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "spritz.jpg",
+			"replaces": "assets/images/restaurant/spritz.svg",
+			"sha256": "b57229b4180728e30630bf7b6003ef35bbb089b4df6e2624d77b881d79dab070",
+			"bytes": 74848,
+			"width": 960,
+			"height": 1440
+		},
+		{
+			"file": "tart.jpg",
+			"replaces": "assets/images/restaurant/tart.svg",
+			"sha256": "55e4a7f97afa7fc243ac89c05b1aaabd3806f5a9f0416c1866437056309a9ddd",
+			"bytes": 918769,
+			"width": 960,
+			"height": 1200
+		},
+		{
+			"file": "the-pass.jpg",
+			"replaces": "assets/images/restaurant/the-pass.svg",
+			"sha256": "0ced556245afe01e5b00324695c99853c7a5df5654046cc5e5d796af8977191e",
+			"bytes": 982196,
+			"width": 960,
+			"height": 1440
+		},
+		{
+			"file": "wine-pour.jpg",
+			"replaces": "assets/images/restaurant/wine-pour.svg",
+			"sha256": "f9002f42199890faad6c63ea7f25130257ee058062e7fdb2e56935a3196a04d4",
+			"bytes": 290475,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "wine-tasting.jpg",
+			"replaces": "assets/images/restaurant/wine-tasting.svg",
+			"sha256": "423528c41520c5056712b31065afc9a8d0d23f688102899a5c39996900b2b8a1",
+			"bytes": 535336,
+			"width": 960,
+			"height": 640
+		}
+	]
+}
