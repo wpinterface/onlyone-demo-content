@@ -1,0 +1,262 @@
+{
+	"demo": "saas",
+	"version": "1.0.0",
+	"images": [
+		{
+			"file": "boutique.jpg",
+			"replaces": "assets/images/saas/boutique.svg",
+			"sha256": "6374e466bd3e26bbe4bdd305658c8bea6c58d66e00d5bfb4eda3bcadff2750ac",
+			"bytes": 590479,
+			"width": 960,
+			"height": 540
+		},
+		{
+			"file": "brick-room.jpg",
+			"replaces": "assets/images/saas/brick-room.svg",
+			"sha256": "aaf19702ce0cdb5530c2b50e2f2bd9fb6f59160f639c1c087023b8ad1fcef975",
+			"bytes": 62018,
+			"width": 960,
+			"height": 636
+		},
+		{
+			"file": "cafe-meeting.jpg",
+			"replaces": "assets/images/saas/cafe-meeting.svg",
+			"sha256": "d724be228153aac1b84911e86a2e07eb268e94c9b53de86bdadd0c41abb98aa4",
+			"bytes": 662574,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "celebrate.jpg",
+			"replaces": "assets/images/saas/celebrate.svg",
+			"sha256": "6dd09a99762582ccfdd186c67fa4c85a687c77484e20d7f7c9a7bb9a30588ae9",
+			"bytes": 491899,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "code-above.jpg",
+			"replaces": "assets/images/saas/code-above.svg",
+			"sha256": "5b62ef9c2ec2b5402ccfda608935f8be6aabac8ffe668f89bc90527ad222a781",
+			"bytes": 580025,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "code-review.jpg",
+			"replaces": "assets/images/saas/code-review.svg",
+			"sha256": "ec2008b28c2cd97774aa1f339de4962908f0dada06b8db4a7c162c8d53a10b75",
+			"bytes": 481167,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "desk-typing.jpg",
+			"replaces": "assets/images/saas/desk-typing.svg",
+			"sha256": "906873f44f4fca57cd87c8612cb61245b44eb0fdcabf1c44eee12b381f22990b",
+			"bytes": 315389,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "dev-pair.jpg",
+			"replaces": "assets/images/saas/dev-pair.svg",
+			"sha256": "0247667209d58c2cdd9db70d1aee7679ff17b0c656c25fdadbd43f5bdbbebc3b",
+			"bytes": 433468,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "developer.jpg",
+			"replaces": "assets/images/saas/developer.svg",
+			"sha256": "11cfa73b8d6723122f2c33631246f1af34f49eb61b54b866b8eb2135569b5661",
+			"bytes": 457926,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "flowchart.jpg",
+			"replaces": "assets/images/saas/flowchart.svg",
+			"sha256": "b58b08f28da4d499b6fed717bf438b0782090723e4f774f2f99c2dafeb8c427b",
+			"bytes": 333653,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "flower-shop.jpg",
+			"replaces": "assets/images/saas/flower-shop.svg",
+			"sha256": "661fb9200c225b4eb577eda8d57349cb4ee131d6587dd5f18b5c6a1cc25e2ab1",
+			"bytes": 698896,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "laptop-code.jpg",
+			"replaces": "assets/images/saas/laptop-code.svg",
+			"sha256": "af319d68fdf821bd2137e888952c1b35db2147681defd8db959fbdd976034c7b",
+			"bytes": 528861,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "loft-office.jpg",
+			"replaces": "assets/images/saas/loft-office.svg",
+			"sha256": "e52cf2b9f7d2f7d4d07737ca7ad7ebfb8de956074cda2437aa0ebc4fbfbe6cef",
+			"bytes": 90585,
+			"width": 960,
+			"height": 636
+		},
+		{
+			"file": "logistics.jpg",
+			"replaces": "assets/images/saas/logistics.svg",
+			"sha256": "adc1f676d74202cbd3ce854af5017e13b1afae5fdd1c1d9c89a34065d18f3500",
+			"bytes": 84254,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "meeting-room.jpg",
+			"replaces": "assets/images/saas/meeting-room.svg",
+			"sha256": "95cf77f9d0bdc9de1aa4b88608b85c682bbeea4ff5222388bc5dbd7f10aa89df",
+			"bytes": 542360,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "person-1.jpg",
+			"replaces": "assets/images/saas/person-1.svg",
+			"sha256": "c01d28e8688a808174f09f2d9c2c378af509ea00e35f8afda8f72c8f24ed4aba",
+			"bytes": 471852,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "person-2.jpg",
+			"replaces": "assets/images/saas/person-2.svg",
+			"sha256": "52f6d07cb53df3abd73e2478c9f29025e39216139e9a878f702db7567fa70039",
+			"bytes": 453435,
+			"width": 960,
+			"height": 1150
+		},
+		{
+			"file": "person-3.jpg",
+			"replaces": "assets/images/saas/person-3.svg",
+			"sha256": "da42e2f958b621dfb7d330e719e3319d6b7c3774cfe0373d96ac5aa7e8701d9f",
+			"bytes": 517725,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "person-4.jpg",
+			"replaces": "assets/images/saas/person-4.svg",
+			"sha256": "ec0e29110e0783d292d2e356cc67c8688b87e149be5a16f0d77d9001b1c528e8",
+			"bytes": 1193825,
+			"width": 960,
+			"height": 1440
+		},
+		{
+			"file": "person-5.jpg",
+			"replaces": "assets/images/saas/person-5.svg",
+			"sha256": "6544aa00c4ff3398937759e65d0327c19c91d98e791e4476b2bd6d1f1a6f2aa4",
+			"bytes": 556555,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "person-6.jpg",
+			"replaces": "assets/images/saas/person-6.svg",
+			"sha256": "a98ba52605efb6c00adc00d3a3777d687b241431ff7ea3f79c94b6e8955164ff",
+			"bytes": 1414997,
+			"width": 960,
+			"height": 1440
+		},
+		{
+			"file": "person-7.jpg",
+			"replaces": "assets/images/saas/person-7.svg",
+			"sha256": "30f849fc41dcd4c019c61558921f08ee509fef95858f9bda68bede5b5a461693",
+			"bytes": 332420,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "remote-work.jpg",
+			"replaces": "assets/images/saas/remote-work.svg",
+			"sha256": "876428215e8074758ef4d0a89283a684dc56d143bd5b164509496ad494f9c07d",
+			"bytes": 536834,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "roadmap.jpg",
+			"replaces": "assets/images/saas/roadmap.svg",
+			"sha256": "db989a42101bfe0ff7464bd8a0577762364b6ad933f64bef6c49b285096b593d",
+			"bytes": 62454,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "roastery.jpg",
+			"replaces": "assets/images/saas/roastery.svg",
+			"sha256": "2626cc5db8a149eed84ee485dc5801e6e95e51af3a52ebe6b8aaad940859660e",
+			"bytes": 108965,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "sales-call.jpg",
+			"replaces": "assets/images/saas/sales-call.svg",
+			"sha256": "935227a6b2ca0b714fc215cb36994dbab03090b5d560673ad4207f6e52eebb1c",
+			"bytes": 507270,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "server-room.jpg",
+			"replaces": "assets/images/saas/server-room.svg",
+			"sha256": "c35ba991d320dd4b1fd834cc07f61c19b2a48dc9568cbd9142e77bafcdb87962",
+			"bytes": 641301,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "sofa-team.jpg",
+			"replaces": "assets/images/saas/sofa-team.svg",
+			"sha256": "f2694153f2be20abb5be89f7ef6b7bd7042883a4a92b3ed6c17edfa49d97fee1",
+			"bytes": 685728,
+			"width": 960,
+			"height": 641
+		},
+		{
+			"file": "standup.jpg",
+			"replaces": "assets/images/saas/standup.svg",
+			"sha256": "b213aa1296b58279634bb05292dc991ed636e8d7b55755dcff0d923e796bdb35",
+			"bytes": 454015,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "tablet-charts.jpg",
+			"replaces": "assets/images/saas/tablet-charts.svg",
+			"sha256": "2f4ede90f6d9733f129347825cbbcb5cdf55954e19ac1d15a3753f08c3dd8778",
+			"bytes": 61867,
+			"width": 960,
+			"height": 636
+		},
+		{
+			"file": "team-huddle.jpg",
+			"replaces": "assets/images/saas/team-huddle.svg",
+			"sha256": "3cad82245d02a8ee7e4e30bf05d1cba768fbb99288d4d2277380a34376796671",
+			"bytes": 502875,
+			"width": 960,
+			"height": 640
+		},
+		{
+			"file": "whiteboard.jpg",
+			"replaces": "assets/images/saas/whiteboard.svg",
+			"sha256": "7fd6628b30a6ce0f66018b58e607110c24e2b65698c33a04d8b354f4fe29dc22",
+			"bytes": 568532,
+			"width": 960,
+			"height": 641
+		}
+	]
+}

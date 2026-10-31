@@ -161,3 +161,40 @@ Every photo is from [StockSnap.io](https://stocksnap.io) and released under [Cre
 | `1.0.0/restaurant/the-pass.jpg` | https://stocksnap.io/photo/food-chef-70RXKSHZDO |
 | `1.0.0/restaurant/wine-pour.jpg` | https://stocksnap.io/photo/wine-pour-VUOSOBFAQJ |
 | `1.0.0/restaurant/wine-tasting.jpg` | https://stocksnap.io/photo/wine-tasting-T8FNYMYTHK |
+
+## SaaS (32 photos)
+
+| Photo | Source |
+|---|---|
+| `1.0.0/saas/boutique.jpg` | https://stocksnap.io/photo/woman-shop-E1KVAKFMUK |
+| `1.0.0/saas/brick-room.jpg` | https://stocksnap.io/photo/startup-office-2WW4T9QVKO |
+| `1.0.0/saas/cafe-meeting.jpg` | https://stocksnap.io/photo/business-meeting-people-QVIEE1UZSX |
+| `1.0.0/saas/celebrate.jpg` | https://stocksnap.io/photo/business-team-E3JPI1GSMS |
+| `1.0.0/saas/code-above.jpg` | https://stocksnap.io/photo/coworker-working-QEUHCFGQNP |
+| `1.0.0/saas/code-review.jpg` | https://stocksnap.io/photo/developer-discuss-OEIJJX36TI |
+| `1.0.0/saas/desk-typing.jpg` | https://stocksnap.io/photo/woman-working-HIOJW30YKD |
+| `1.0.0/saas/dev-pair.jpg` | https://stocksnap.io/photo/colleagues-meeting-KPVOIKEPSG |
+| `1.0.0/saas/developer.jpg` | https://stocksnap.io/photo/woman-developer-64EKVZ4V2B |
+| `1.0.0/saas/flowchart.jpg` | https://stocksnap.io/photo/whiteboard-web-design-NUEH6AWK1X |
+| `1.0.0/saas/flower-shop.jpg` | https://stocksnap.io/photo/flower-shop-WNQMLAIYXP |
+| `1.0.0/saas/laptop-code.jpg` | https://stocksnap.io/photo/woman-developer-HMPNPRBUJ7 |
+| `1.0.0/saas/loft-office.jpg` | https://stocksnap.io/photo/office-startup-FF93I0N2C1 |
+| `1.0.0/saas/logistics.jpg` | https://stocksnap.io/photo/container-van-RIG6ID482D |
+| `1.0.0/saas/meeting-room.jpg` | https://stocksnap.io/photo/conference-room-meeting-GVUWVKUHZE |
+| `1.0.0/saas/person-1.jpg` | https://stocksnap.io/photo/black-portrait-T8VNJRQH7F |
+| `1.0.0/saas/person-2.jpg` | https://stocksnap.io/photo/confident-business-4Q1S53WMQ6 |
+| `1.0.0/saas/person-3.jpg` | https://stocksnap.io/photo/confident-business-ZMIFYSYFK8 |
+| `1.0.0/saas/person-4.jpg` | https://stocksnap.io/photo/woman-business-8AF1UG3C6N |
+| `1.0.0/saas/person-5.jpg` | https://stocksnap.io/photo/smiling-woman-QVQS4GSPFY |
+| `1.0.0/saas/person-6.jpg` | https://stocksnap.io/photo/female-portrait-MQZHZVJYPA |
+| `1.0.0/saas/person-7.jpg` | https://stocksnap.io/photo/senior-business-UTEZRDTKPP |
+| `1.0.0/saas/remote-work.jpg` | https://stocksnap.io/photo/woman-working-FTBGHTW6EJ |
+| `1.0.0/saas/roadmap.jpg` | https://stocksnap.io/photo/whiteboard-post-it-notes-YR89OQFMT1 |
+| `1.0.0/saas/roastery.jpg` | https://stocksnap.io/photo/people-coffee-1O28ZNOVP3 |
+| `1.0.0/saas/sales-call.jpg` | https://stocksnap.io/photo/businessman-call-0MQJHREWOL |
+| `1.0.0/saas/server-room.jpg` | https://stocksnap.io/photo/servers-woman-ZYGIOUX4QU |
+| `1.0.0/saas/sofa-team.jpg` | https://stocksnap.io/photo/woman-developers-FVWLQXWZ1P |
+| `1.0.0/saas/standup.jpg` | https://stocksnap.io/photo/business-presenting-XDAR6MIG75 |
+| `1.0.0/saas/tablet-charts.jpg` | https://stocksnap.io/photo/board-room-business-KCIU8RWM09 |
+| `1.0.0/saas/team-huddle.jpg` | https://stocksnap.io/photo/business-people-AKSM11WW9N |
+| `1.0.0/saas/whiteboard.jpg` | https://stocksnap.io/photo/designers-discuss-0IDDBGKWDX |
